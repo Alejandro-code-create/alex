@@ -1,0 +1,6 @@
+rpcuser=rpc_mexicion
+rpcpassword=0bc454e6f58d3934cd7a33f4e
+rpcallowip=127.0.0.1
+rpcport=16823
+listen=1
+server=1
